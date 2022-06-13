@@ -16,3 +16,5 @@ $ npm install web3modal ethers
 https://nft-collection-umber.vercel.app/
 
 Crypto Devs Contract Address: 0x42E356326a2F6cfd001BbE81ff6e9D654438FD6C
+
+https://testnets.opensea.io/assets/0x42E356326a2F6cfd001BbE81ff6e9D654438FD6C/1
